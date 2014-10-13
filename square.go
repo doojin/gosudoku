@@ -1,4 +1,4 @@
-package sudoku
+package gosudoku
 
 type square struct {
 	numbers [3][3]int

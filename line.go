@@ -1,4 +1,4 @@
-package sudoku
+package gosudoku
 
 type line struct {
 	numbers [9]int
