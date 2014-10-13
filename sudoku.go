@@ -1,3 +1,4 @@
+// gosudoku is a tiny package for resolving Sudoku games
 package gosudoku
 
 import (
