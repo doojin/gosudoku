@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/doojin/gosudoku.svg)](https://travis-ci.org/doojin/gosudoku)
 
-A very simple sudoku resolver implemented in Go
+A very simple sudoku solver implemented in Go
 
 Example:
 
